@@ -3,9 +3,10 @@
   "features": [
     {
       "type": "Feature",
-      "title": "Tokyo", 
-      "description": "KW 32-33", 
-      "properties": {},
+      "properties": {
+        "title": "Tokyo", 
+        "description": "KW 32-33"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
