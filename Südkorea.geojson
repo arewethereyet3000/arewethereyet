@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "대한민국"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9782914,
+          37.5666791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9782914,
+            37.5666791
+          ]
+        ]
+      }
+    }
+  ]
+}
