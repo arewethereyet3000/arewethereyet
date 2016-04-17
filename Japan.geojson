@@ -4,39 +4,42 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "日本"
+        "title": "Tokyo, Tokyo, Japan",
+        "description": "Japan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.294774527387,
-          34.2255804
+          139.7319925,
+          35.7090259
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "日本"
+        "title": "Osaka, Osaka Prefecture, Japan",
+        "description": "Japan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501887,
-          34.704365
+          135.5021651,
+          34.6937378
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "日本"
+        "title": "Kyoto, Kyoto Prefecture, Japan",
+        "description": "Japan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.763835,
-          35.0185804
+          135.7680294,
+          35.0116363
         ]
       }
     },
@@ -47,16 +50,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            139.294774527387,
-            34.2255804
+            139.7319925,
+            35.7090259
           ],
           [
-            135.501887,
-            34.704365
+            135.5021651,
+            34.6937378
           ],
           [
-            135.763835,
-            35.0185804
+            135.7680294,
+            35.0116363
           ]
         ]
       }

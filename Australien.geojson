@@ -4,26 +4,28 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Sydney NSW, Australia",
         "description": "Australia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          151.2164539,
-          -33.8548156
+          151.2069902,
+          -33.8674869
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "title": "Melbourne VIC, Australia",
         "description": "Australia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.9631608,
-          -37.8142175
+          144.96328,
+          -37.814107
         ]
       }
     },
@@ -34,12 +36,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            151.2164539,
-            -33.8548156
+            151.2069902,
+            -33.8674869
           ],
           [
-            144.9631608,
-            -37.8142175
+            144.96328,
+            -37.814107
           ]
         ]
       }

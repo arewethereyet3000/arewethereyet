@@ -4,26 +4,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "ประเทศไทย"
+        "title": "Bangkok, Thailand",
+        "description": "Thailand"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.416086601645,
-          13.5859219
+          100.5017651,
+          13.7563309
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "ประเทศไทย"
+        "title": "Ko Samui, Ko Samui District, Surat Thani, Thailand",
+        "description": "Thailand"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          99.9956715179437,
-          9.50135275
+          100.0135929,
+          9.5120168
         ]
       }
     },
@@ -34,12 +36,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            100.416086601645,
-            13.5859219
+            100.5017651,
+            13.7563309
           ],
           [
-            99.9956715179437,
-            9.50135275
+            100.0135929,
+            9.5120168
           ]
         ]
       }

@@ -4,26 +4,28 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "New Zealand/Aotearoa"
+        "title": "Wellington, New Zealand",
+        "description": "New Zealand"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.7772239,
-          -41.2887638
+          174.776236,
+          -41.2864603
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "description": "New Zealand/Aotearoa"
+        "title": "Auckland, New Zealand",
+        "description": "New Zealand"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.7655514,
-          -36.8534664
+          174.7633315,
+          -36.8484597
         ]
       }
     },
@@ -34,12 +36,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            174.7772239,
-            -41.2887638
+            174.776236,
+            -41.2864603
           ],
           [
-            174.7655514,
-            -36.8534664
+            174.7633315,
+            -36.8484597
           ]
         ]
       }
