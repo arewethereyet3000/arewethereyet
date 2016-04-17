@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Seoul, South Korea",
+        "description": "South Korea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.9779692,
+          37.566535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            126.9779692,
+            37.566535
+          ]
+        ]
+      }
+    }
+  ]
+}

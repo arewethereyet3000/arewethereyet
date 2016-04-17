@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Wellington, New Zealand",
+        "description": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.776236,
+          -41.2864603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Auckland, New Zealand",
+        "description": "New Zealand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7633315,
+          -36.8484597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174.776236,
+            -41.2864603
+          ],
+          [
+            174.7633315,
+            -36.8484597
+          ]
+        ]
+      }
+    }
+  ]
+}

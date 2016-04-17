@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bangkok, Thailand",
+        "description": "Thailand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5017651,
+          13.7563309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100.5017651,
+            13.7563309
+          ]
+        ]
+      }
+    }
+  ]
+}
