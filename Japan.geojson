@@ -18,20 +18,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Osaka, Osaka Prefecture, Japan",
-        "description": "Japan"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          135.5021651,
-          34.6937378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Kyoto, Kyoto Prefecture, Japan",
         "description": "Japan"
       },
@@ -40,6 +26,20 @@
         "coordinates": [
           135.7680294,
           35.0116363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Osaka, Osaka Prefecture, Japan",
+        "description": "Japan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.5021651,
+          34.6937378
         ]
       }
     },
@@ -54,12 +54,12 @@
             35.7090259
           ],
           [
-            135.5021651,
-            34.6937378
-          ],
-          [
             135.7680294,
             35.0116363
+          ],
+          [
+            135.5021651,
+            34.6937378
           ]
         ]
       }
