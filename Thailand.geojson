@@ -4,14 +4,26 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Bangkok, Thailand",
-        "description": "Thailand"
+        "description": "ประเทศไทย"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.5017651,
-          13.7563309
+          100.416086601645,
+          13.5859219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "ประเทศไทย"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.9956715179437,
+          9.50135275
         ]
       }
     },
@@ -22,8 +34,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            100.5017651,
-            13.7563309
+            100.416086601645,
+            13.5859219
+          ],
+          [
+            99.9956715179437,
+            9.50135275
           ]
         ]
       }

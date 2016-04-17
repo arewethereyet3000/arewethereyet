@@ -4,14 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
-        "description": "Vietnam"
+        "description": "Việt Nam"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          105.8341598,
-          21.0277644
+          105.675563063679,
+          20.9749006
         ]
       }
     },
@@ -22,8 +21,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            105.8341598,
-            21.0277644
+            105.675563063679,
+            20.9749006
           ]
         ]
       }

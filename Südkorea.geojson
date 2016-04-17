@@ -4,14 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Seoul, South Korea",
-        "description": "South Korea"
+        "description": "대한민국"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          126.9779692,
-          37.566535
+          126.9782914,
+          37.5666791
         ]
       }
     },
@@ -22,8 +21,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            126.9779692,
-            37.566535
+            126.9782914,
+            37.5666791
           ]
         ]
       }
