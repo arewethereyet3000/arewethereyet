@@ -4,36 +4,42 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Tokyo", 
-        "description": "KW 32-33"
+        "title": "Tokyo, Tokyo, Japan",
+        "description": "Japan"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          139.7515869140625,
-          35.733136223133926
+          35.7090259,
+          139.7319925
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Osaka, Osaka Prefecture, Japan",
+        "description": "Japan"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.7470703125,
-          35.03449433167976
+          34.6937378,
+          135.5021651
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "title": "Kyoto, Kyoto Prefecture, Japan",
+        "description": "Japan"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.4998779296875,
-          34.773203753940734
+          35.0116363,
+          135.7680294
         ]
       }
     },
@@ -44,16 +50,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            139.7625732421875,
-            35.71975793933433
+            35.7090259,
+            139.7319925
           ],
           [
-            135.7470703125,
-            35.03449433167976
+            34.6937378,
+            135.5021651
           ],
           [
-            135.516357421875,
-            34.768691457552706
+            35.0116363,
+            135.7680294
           ]
         ]
       }
